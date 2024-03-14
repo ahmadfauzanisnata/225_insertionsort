@@ -48,3 +48,11 @@ void input() {
             cout << "jumlah pass = " << n - 1 << endl;
             cout << endl;
         }
+        int main() {
+            input();
+            InsrtionSort();
+            display();
+
+            system("pause");
+            return 0;
+        }
