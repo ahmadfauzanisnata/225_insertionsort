@@ -6,8 +6,19 @@ using namespace std;
 void insertionsort() {
     int i, n, j, temp;
     int arr[40];
+   void insertionsort() {
+        int i, n, j, temp;
+        int arr[40];
 
-    for (i = 1; i <= n - 1; i++) { //step 1
+        for (i = 1; i <= n - 1; i++) { //step 1
+            temp = arr[i]; //step2
+
+
+        }
+    }
+
+            
+
 
   
     
